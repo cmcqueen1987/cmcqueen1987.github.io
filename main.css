@@ -1,11 +1,17 @@
 body {
-  background: wh;
+  background: white;
 }
 
 h1 {
-  color: #FF2734;
+  color: black;
+  text-align: center;
 }
 
 h2 {
-  color: #FF2734;
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  color: black;
 }
