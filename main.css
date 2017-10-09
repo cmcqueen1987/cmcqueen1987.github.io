@@ -2,21 +2,21 @@ body {
   background: white;
 }
 
-h1 {
+h2 {
   color: blue;
   text-align: center;
   font-size: 150px;
   font-family: 'Tangerine', serif;
 }
 
-h2 {
+h3 {
   color: blue;
   text-align: center;
   font-size: 60px;
   font-family: 'Tangerine', serif;
 }
 
-h3 {
+h4 {
   color: black;
 }
 
