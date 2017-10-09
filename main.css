@@ -27,9 +27,13 @@ p {
   font-family: Arial;
 }
 
-A {
+a {
   text-align: center;
   font-family: Arial;
+}
+
+li {
+  text-align: center;
 }
 
 
