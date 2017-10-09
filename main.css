@@ -27,6 +27,12 @@ p {
   font-family: Arial;
 }
 
+A {
+  text-align: center;
+  font-family: Arial;
+}
+
+
 .centered {
   position: relative;
   right: + 36%;
