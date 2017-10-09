@@ -19,3 +19,8 @@ h2 {
 h3 {
   color: black;
 }
+
+.centered {
+  position: fixed;
+  right: + 36%;
+}
