@@ -19,10 +19,12 @@ h2 {
 h3 {
   color: black;
   text-align: center;
+  font-family: Courier;
 }
 
 p {
   text-align: center;
+  font-family: Courier;
 }
 
 .centered {
