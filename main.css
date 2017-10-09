@@ -2,27 +2,27 @@ body {
   background: white;
 }
 
-h2 {
+h1 {
   color: blue;
   text-align: center;
-  font-size: 150px;
+  font-size: 100px;
   font-family: 'Tangerine', serif;
 }
 
-h3 {
+h2 {
   color: blue;
   text-align: center;
   font-size: 60px;
   font-family: 'Tangerine', serif;
 }
 
-h4 {
+h3 {
   color: black;
 }
 
 .centered {
-  position: relative;
-  right: + 76%;
+  position: fixed;
+  right: + 36%;
   box-shadow: 0 0 3px 1px #000;
   border-radius: 1.25em;
 }
